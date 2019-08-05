@@ -41,8 +41,11 @@ to inspect or update.
 16. Divided into 3 tabs, the first tab System Info is were all the parachute information is recorded.
 
   a. After Container information is entered users can click the Service Button Pane located to the right side of the application.      Select the Service Bulletins button. This will take users to the manufacturer’s service bulletins page ( if any are              published.).
+  
   b. Notes can be entered for the parachute
+  
   c. Line set information can be included and tracked
+  
   d. Parachute entry can be DELETED
   
 17. The second tab is the Repack Information section. Users will use this pane to update the repack information for each reserve repack. ( ALL SYSTEM INFORMATION MUST BE UPDATED BEFORE UPDATING A REPACK ).
