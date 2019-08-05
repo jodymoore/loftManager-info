@@ -1,5 +1,4 @@
 # loftManager-info
-instruction on Loft manager
 
 Loft Manager User Instructions
 
